@@ -1,1 +1,2 @@
 # ECE247
+ECE247 Winter2020@UCLA
